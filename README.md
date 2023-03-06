@@ -5,9 +5,12 @@ This tells you everything you need to know to exploit ManiaPlanet Demo Mode usin
 Use the Scripts -> New Map menu after exiting a channel.
 
 ## Edit A Map
-Use the Nod Explorer to navigate to here: ![image](https://user-images.githubusercontent.com/82186696/223221397-a13a30c0-37c1-49bf-817c-1edaea64b5fe.png)
-Now, click on "EditMap": ![image](https://user-images.githubusercontent.com/82186696/223221519-a046b3f5-2d4b-4d2c-b005-58036218b62c.png)
-And then put your map's URL in the "Map" textbox: ![image](https://user-images.githubusercontent.com/82186696/223221331-186c0bb9-53bf-4afc-b0cb-a8574d946b33.png)
+Use the Nod Explorer to navigate to here:
+![image](https://user-images.githubusercontent.com/82186696/223221397-a13a30c0-37c1-49bf-817c-1edaea64b5fe.png)
+Now, click on "EditMap":
+![image](https://user-images.githubusercontent.com/82186696/223221519-a046b3f5-2d4b-4d2c-b005-58036218b62c.png)
+And then put your map's URL in the "Map" textbox:
+![image](https://user-images.githubusercontent.com/82186696/223221331-186c0bb9-53bf-4afc-b0cb-a8574d946b33.png)
 
 ## Channels
 NASCAR Planet:
