@@ -94,6 +94,9 @@ TMTurbo Reloaded Stadium:
   - In editor: Stadium.
   - Solo Play: Stadium.
 
+TM2 Island:
+  - In editor: Stadium.
+
 ## Offline Play
 Stadium.
 
