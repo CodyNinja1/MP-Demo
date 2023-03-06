@@ -1,7 +1,7 @@
 ## Channels
 NASCAR Planet:
-  - In editor: Stadium
-  - Solo Play: Stadium, Canyon
+  - In editor: Stadium, Canyon (using Nod Explorer).
+  - Solo Play: Stadium, Canyon.
 
 Pursuit:
   - In editor: any nadeo envi, any car (using PursuitArena gamemode).
@@ -56,5 +56,17 @@ NADEO Valley (G&W):
   - Solo Play: Valley.
 
 NADEO Stadium (G&W):
+  - In editor: Stadium.
+  - Solo Play: Stadium.
+
+TMTurbo Reloaded Lagoon:
+  - In editor: Lagoon.
+  - Solo Play: Lagoon.
+
+TMTurbo Reloaded Canyon:
+  - In editor: Canyon.
+  - Solo Play: Canyon.
+
+TMTurbo Reloaded Stadium:
   - In editor: Stadium.
   - Solo Play: Stadium.
