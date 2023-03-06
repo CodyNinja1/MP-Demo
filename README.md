@@ -51,7 +51,7 @@ NADEO Canyon (G&W):
   - In editor: Canyon.
   - Solo Play: Canyon.
  
- NADEO Valley (G&W):
+NADEO Valley (G&W):
   - In editor: Valley.
   - Solo Play: Valley.
 
