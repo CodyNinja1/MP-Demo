@@ -46,3 +46,15 @@ WTC MicroMachine:
 NADEO Lagoon (G&W):
   - In editor: Lagoon.
   - Solo Play: Lagoon.
+
+NADEO Canyon (G&W):
+  - In editor: Canyon.
+  - Solo Play: Canyon.
+ 
+ NADEO Valley (G&W):
+  - In editor: Valley.
+  - Solo Play: Valley.
+
+NADEO Stadium (G&W):
+  - In editor: Stadium.
+  - Solo Play: Stadium.
