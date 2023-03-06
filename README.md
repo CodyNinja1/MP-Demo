@@ -5,11 +5,11 @@ NASCAR Planet:
 
 Pursuit:
   - In editor: any nadeo envi, any car (using PursuitArena gamemode).
-  - Solo Play: any-n.
+  - Solo Play: any nadeo envi, any car.
 
 WOM:
   - In editor: any-n.
-  - Solo Play: any-n.
+  - Solo Play: any nadeo envi, any car.
 
 MXLC:
   - In editor: Lagoon.
