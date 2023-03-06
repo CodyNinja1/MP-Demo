@@ -1,3 +1,6 @@
+## What is this?
+This tells you everything you need to know to exploit ManiaPlanet Demo Mode using OpenPlanet.
+
 ## Channels
 NASCAR Planet:
   - In editor: Stadium, Canyon (using Nod Explorer).
