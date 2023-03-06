@@ -18,6 +18,8 @@ And then put your map's URL in the "Map" textbox: <br>
       ![image](https://user-images.githubusercontent.com/82186696/223221397-a13a30c0-37c1-49bf-817c-1edaea64b5fe.png) <br> <br>
       Then click on "PlayMap": <br> ![image](https://user-images.githubusercontent.com/82186696/223224894-06641b71-2bec-47e2-a7d5-9fb1f0133ab4.png) <br> <br>
       And then put your map's URL in the "Map" textbox: <br> ![image](https://user-images.githubusercontent.com/82186696/223225089-5bf03a8a-0af3-414a-9f8a-4f4fd25d08cd.png) <br> <br>  
+  - ManiaExchange
+      Simply Use the ManiaExchange Plugin from Openplanet: https://openplanet.dev/plugin/maniaexchange
 
 ## Channels
 NASCAR Planet:
